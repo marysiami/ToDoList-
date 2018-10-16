@@ -1,0 +1,5 @@
+buy 
+drink 
+sleep
+work
+gym
